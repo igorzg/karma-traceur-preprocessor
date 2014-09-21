@@ -1,0 +1,22 @@
+{
+    "name": "karma-traceur-preprocessor",
+    "description": "karma traceur preprocessor",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/igorzg/karma-traceur-preprocessor.git"
+    },
+    "keywords": [
+        "karma-traceur-preprocessor",
+        "script"
+    ],
+    "author": {
+        "name": "Igor Ivanovic",
+        "email": "igor.zg1987@gmail.com"
+    },
+    "dependencies": {},
+    "devDependencies": {},
+    "engines": {
+        "node": ">=0.8.0"
+    }
+}
